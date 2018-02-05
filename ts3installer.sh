@@ -4,9 +4,7 @@
 # 23/02/2013 v0.2
 # 14/02/2013 v0.3
 # Author Oscar Sanchez.
-# http://forum.teamspeak.com/member.php/184522-OscarS
 # http://www.oscars.mx
-# http://www.sswhosting.com
 # CopyLeft - Script under license of creativecommons
 # http://creativecommons.org/licenses/by-nc-nd/3.0/
 # http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es
@@ -25,7 +23,7 @@ if test $start -eq 1; then
 	read sn
 	echo "Specify your architecture (remember that 32bit is x86 and 64bit is amd64):"
 	read arch
-	echo "Enter the current version of TeamSpeak Server (eg. 3.0.10.3):"
+	echo "Enter the current version of TeamSpeak Server (ie. 3.0.13.8):"
 	read ts3sv
 	echo "Specify the IP Adress of your voice, filetransfer and query (eg. 198.100.152.134):"
 	read ipa
