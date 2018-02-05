@@ -1,6 +1,6 @@
 #!/bin/bash
 # TeamSpeak 3 Installer
-# Tested on CentOS 5.x, 6.x
+# Tested on CentOS 5.x or higher
 # 23/02/2013 v0.2
 # 14/02/2013 v0.3
 # Author Oscar Sanchez.
